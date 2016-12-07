@@ -1,3 +1,3 @@
 # helloRepository
 This project is a sample springboot project.
-Hibernate, Meaven, JPA, Postgresql and thymeleaf are being used in this project.
+Hibernate, Maven, JPA, Postgresql and Thymeleaf are being used in this project.
